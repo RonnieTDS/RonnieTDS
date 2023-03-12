@@ -3,7 +3,7 @@
 
 - 🔭 Estudante 
 - 🌱 Estou estudando Desenvolvimento de Sistemas 
-- ⚡ Quero trabalhar com front-end
+- ⚡ Quero trabalhar com TI
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RonnieTDS&show_icons=true&theme=dracula)](https://github.com/RonnieTDS/github-readme-stats)
