@@ -1,7 +1,7 @@
 ### Oi!! eu sou Ronnie Santos 💻
 
 
-- 🔭 Representação Comercial
+- 🔭 Estudante 
 - 🌱 Estou estudando Desenvolvimento de Sistemas 
 - ⚡ Quero trabalhar com front-end
 
