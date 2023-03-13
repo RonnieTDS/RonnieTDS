@@ -2,7 +2,7 @@
 
 
 - 🔭 Estudante 
-- 🌱 Estou estudando Desenvolvimento de Sistemas 
+- 🌱 Estudando Desenvolvimento de Sistemas 
 - ⚡ Quero trabalhar com TI
 
 
